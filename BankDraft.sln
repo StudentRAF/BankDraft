@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank.User", "Bank.User\Bank.User.csproj", "{743B12F5-0E73-4B0E-A398-A929F03BACAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank.Application", "Bank.Application\Bank.Application.csproj", "{3EB85EBB-967A-462B-AB7B-B14172777FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB85EBB-967A-462B-AB7B-B14172777FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB85EBB-967A-462B-AB7B-B14172777FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743B12F5-0E73-4B0E-A398-A929F03BACAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743B12F5-0E73-4B0E-A398-A929F03BACAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
